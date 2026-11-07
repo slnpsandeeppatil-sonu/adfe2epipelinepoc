@@ -11,6 +11,9 @@
 			},
 			"schema": {
 				"type": "string"
+			},
+			"cdc_col": {
+				"type": "string"
 			}
 		},
 		"annotations": [],

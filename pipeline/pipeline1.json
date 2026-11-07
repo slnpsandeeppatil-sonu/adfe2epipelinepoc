@@ -48,7 +48,12 @@
 				"outputs": [
 					{
 						"referenceName": "Parquet1",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"container": "bronze",
+							"folder": "dim_users",
+							"file_name": "users.csv"
+						}
 					}
 				]
 			}
