@@ -1,0 +1,15 @@
+{
+	"name": "sandeepadfpoc170590",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7a78984-ee57-4f68-9e6c-9115be9c5242",
+		"tenantId": "337c18ee-711e-468b-95f2-45afa1118b79"
+	}
+}
